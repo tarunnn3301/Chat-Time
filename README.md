@@ -1,4 +1,4 @@
-<h1>RealTime Chat Application - LetsChat</h1>
+<h1>RealTime Chat Application - Chat-Time</h1>
 
 <ul>
 <li>FrontEnd Technologies- HTML, CSS</li>
